@@ -39,7 +39,7 @@ $result = mysqli_query($conn, $sql);
 ?>
 <!DOCTYPE HTML>
 <!--
-	Bee Healthy by Group C
+	Bee Healthy by Ijaz Azam
 -->
 <html lang="en">
 	<head>
@@ -177,8 +177,8 @@ $result = mysqli_query($conn, $sql);
                     <ul class="menu">
 
                         <li><img src="images/logo.png" alt="logo" style="width: 30px"></li>
-                        <li>&copy; Group C. All rights reserved</li>
-                        <li>Design: <a href="#">Group C</a></li>
+                        <li>&copy; Ijaz Azam. All rights reserved</li>
+                        <li>Design: <a href="#">Ijaz Azam</a></li>
 
                     </ul>
                 </div>
@@ -210,8 +210,8 @@ $result = mysqli_query($conn, $sql);
                     <div class="copyright">
                         <ul class="menu">
                             <li><img src="images/logo.png" alt="logo" style="width: 30px"></li>
-                            <li>&copy; Group C. All rights reserved</li>
-                            <li>Design: <a href="#">Group C</a></li>
+                            <li>&copy; Ijaz Azam. All rights reserved</li>
+                            <li>Design: <a href="#">Ijaz Azam</a></li>
                         </ul>
                     </div>
                 </div>

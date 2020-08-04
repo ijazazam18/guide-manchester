@@ -80,7 +80,7 @@ $result_ff = mysqli_query($conn, $sql_ff);
 
 <!--
 
-	Bee Healthy by Group C
+	Bee Healthy by Ijaz Azam
 
 -->
 
@@ -461,8 +461,8 @@ $result_ff = mysqli_query($conn, $sql_ff);
                     <ul class="menu">
 
                         <li><img src="images/logo.png" alt="logo" style="width: 30px"></li>
-                        <li>&copy; Group C. All rights reserved</li>
-                        <li>Design: <a href="#">Group C</a></li>
+                        <li>&copy; Ijaz Azam. All rights reserved</li>
+                        <li>Design: <a href="#">Ijaz Azam</a></li>
 
                     </ul>
                 </div>
@@ -494,8 +494,8 @@ $result_ff = mysqli_query($conn, $sql_ff);
                     <div class="copyright">
                         <ul class="menu">
                             <li><img src="images/logo.png" alt="logo" style="width: 30px"></li>
-                            <li>&copy; Group C. All rights reserved</li>
-                            <li>Design: <a href="#">Group C</a></li>
+                            <li>&copy; Ijaz Azam. All rights reserved</li>
+                            <li>Design: <a href="#">Ijaz Azam</a></li>
                         </ul>
                     </div>
                 </div>
